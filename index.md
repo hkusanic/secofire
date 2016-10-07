@@ -32,10 +32,10 @@ title: SecoFire Style Guidelines
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-							<li><a href="#">Link</a></li>
+							<li class="active"><a href="#">Design Principles<span class="sr-only">(current)</span></a></li>
+							<li><a href="#">Base Layout</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Areas <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Components <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Action</a></li>
 									<li><a href="#">Another action</a></li>
@@ -48,9 +48,9 @@ title: SecoFire Style Guidelines
 							</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#">Link</a></li>
+							<li><a href="#">Examples</a></li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">References <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="#">Action</a></li>
 									<li><a href="#">Another action</a></li>
@@ -64,7 +64,7 @@ title: SecoFire Style Guidelines
 				</div><!-- /.container-fluid -->
 			</nav>
 		  
-		  <h1 id="project_title">Secofire Style Guidelines</h1>
+		  <h1 id="project_title">SecoFire Style Guidelines</h1>
 		  <h2 id="project_tagline"></h2>
 			<section id="downloads">
 			  <a class="zip_download_link" href="https://github.com/hkusanic/secofire/zipball/master">Download this project as a .zip file</a>
@@ -76,7 +76,7 @@ title: SecoFire Style Guidelines
 	<div id="main_content_wrap" class="outer">
 	  <section id="main_content" class="inner">
 		<h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Seco Fire Style Guidelines.</h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to SecoFire Style Guidelines.</h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus.
 
