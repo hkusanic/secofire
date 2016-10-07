@@ -1,7 +1,6 @@
 ---
 title: SecoFire Style Guidelines
 ---
-<!DOCTYPE html>
 <html>
   <head>
 	<meta charset='utf-8'>
