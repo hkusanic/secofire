@@ -13,7 +13,7 @@ title: SecoFire Style Guidelines
 				</a>
 				SecoFire Layout.
 			</h3>
-			<p><code><body></code> element tag must use <code>layout="column"</code> attribure in addition with <code>flex</code> attribute.</p>
+			<p><code>{% highlight html lineos %}<body>{% endhighlight %}</code> element tag must use <code>layout="column"</code> attribure in addition with <code>flex</code> attribute.</p>
 			<p>to learn more in details how this works please check following <a id="material-layouts" href="https://material.angularjs.org/latest/layout/container">link</a></p>
 			{% include layout_1.html %}
 
