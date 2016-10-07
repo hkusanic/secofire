@@ -80,23 +80,22 @@ title: SecoFire Style Guidelines
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus.
 <pre>
 <code>
-{% highlight html lineos=table %}
-  <!DOCTYPE html>
-  <html lang="en">
-	<head>
-	  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-	</head>
-	<body layout="column" flex>
-	  <div id="chrome_ctrl_placeholder"></div>
-	  <seco-fire-app layout="column" flex>
-			Loading
-			<md-button class="md-raised md-primary">Primary</md-button>
-			<md-progress-circular class="md-warn md-hue-3" md-mode="indeterminate" md-diameter="70"></md-progress-circular>
-	  </seco-fire-app>
-	  
-	  <form id="form1" runat="server"></form>
-	</body>
-  </html>
+{% highlight html lineos %}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+ </head>
+ <body layout="column" flex>
+  <div id="chrome_ctrl_placeholder"></div>
+  <seco-fire-app layout="column" flex>
+   Loading
+  <md-button class="md-raised md-primary">Primary</md-button>
+  <md-progress-circular class="md-warn md-hue-3" md-mode="indeterminate" md-diameter="70"></md-progress-circular>
+  </seco-fire-app>
+  <form id="form1" runat="server"></form>
+ </body>
+</html>
 {% endhighlight %}
 </code>
 </pre>
