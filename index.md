@@ -70,40 +70,43 @@ title: SecoFire Style Guidelines
 {% endhighlight %}
 </code>
 
-
-{% highlight html linenos %}
 <pre>
 	<code class="html">
-<!DOCTYPE html>
-	<html
+
+{% highlight html linenos %}
+
+  <!DOCTYPE html>
+  <html
 	lang="en"
 	ng-app="seco.fire.web" ng-strict-di>
 	<head>
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-		<meta charset="UTF-8">
-		<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-		<title>The App</title>
-		<script src="https://ajax.aspnetcdn.com/ajax/4.0/1/MicrosoftAjax.js" type="text/javascript"></script>
-		<script src="lib/system.js"></script>
-		<script src="config.js"></script>
-		<script>
+	  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	  <meta charset="UTF-8">
+	  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+	  <title>The App</title>
+	  <script src="https://ajax.aspnetcdn.com/ajax/4.0/1/MicrosoftAjax.js" type="text/javascript"></script>
+	  <script src="lib/system.js"></script>
+	  <script src="config.js"></script>
+	  <script>
 		System.import('app/app');
-		</script>
+	  </script>
 	</head>
 	<body layout="column" flex>
-		<div id="chrome_ctrl_placeholder"></div>
-		<seco-fire-app layout="column" flex>
+	  <div id="chrome_ctrl_placeholder"></div>
+	  <seco-fire-app layout="column" flex>
 		Loading
 		<md-button class="md-raised md-primary">Primary</md-button>
 		<md-progress-circular class="md-warn md-hue-3" md-mode="indeterminate" md-diameter="70"></md-progress-circular>
-		</seco-fire-app>
-		<!-- we need a form tag on the page, so that ASP.NET functionalities like ScriptManager work -->
-		<form id="form1" runat="server"></form>
+	  </seco-fire-app>
+	  <!-- we need a form tag on the page, so that ASP.NET functionalities like ScriptManager work -->
+	  <form id="form1" runat="server"></form>
 	</body>
-	</html>
+  </html>
+
+{% endhighlight %}
+
 	</code>
 </pre>
-{% endhighlight %}
 
 Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
 <h3>
