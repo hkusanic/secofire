@@ -71,7 +71,8 @@ title: SecoFire Style Guidelines
 </code>
 
 <code>
-```html
+{% highlight html %}
+	{% raw %}
   <!DOCTYPE html>
   <html
 	lang="en"
@@ -99,7 +100,8 @@ title: SecoFire Style Guidelines
 	  <form id="form1" runat="server"></form>
 	</body>
   </html>
-```
+	{% endraw %}
+{% endhighlight %}
 </code>
 Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
 <h3>
