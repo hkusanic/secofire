@@ -9,7 +9,7 @@ title: SecoFire Style Guidelines
 	<meta name="description" content="Secofire : ">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-	<link rel="stylesheet" type="text/css" media="screen" href="css/syntax.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/pygments/fruity.css">
 	<title>Seco Fire Style Guidelines</title>
   </head>
 
