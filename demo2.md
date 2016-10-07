@@ -1,3 +1,6 @@
+---
+title: This will be used as the title-tag of the page head
+---
 <div id="header_wrap" class="outer">
 
 <header class="inner">[View on GitHub](https://github.com/hkusanic/secofire)
