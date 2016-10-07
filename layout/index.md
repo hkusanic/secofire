@@ -14,6 +14,7 @@ title: SecoFire Style Guidelines
 				SecoFire Layout.
 			</h3>
 			<p>Element tag <code>body</code> should use <code>layout="column"</code> attribure in addition with <code>flex</code> attribute. To learn more in details how this works please check following: <button type="button" class="btn btn-default" onclick="window.location.href='https://material.angularjs.org/latest/layout/container'">angular material - layout containers</button></p>
+			<p>Please note that first child element of body tag is <code>div</code> element with <code>id="chrome_ctrl_placeholder"</code>. It is important to place this element here as it is a placeholder for SharePoint Chrome Control. Ommiting this element would disable user to easily return to SharePoint site.</p>
 			{% include layout_1.html %}
 
 			<p>Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
