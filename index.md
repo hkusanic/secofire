@@ -70,7 +70,7 @@ title: SecoFire Style Guidelines
 {% endhighlight %}
 
 
-{% highlight html linenos=table %}
+{% highlight html %}
 
   <!DOCTYPE html>
   <html

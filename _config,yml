@@ -1,3 +1,4 @@
+pygments: true
 syntax-highlighting:
   enabled : true
   highlighter: pygments
