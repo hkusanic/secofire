@@ -13,7 +13,8 @@ title: SecoFire Style Guidelines
 				</a>
 				SecoFire Layout.
 			</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus.
+			<p><code><body></code> element tag must use <code>layout="column"</code> attribure in addition with <code>flex</code> attribute.</p>
+			<p>to learn more in details how this works please check following <a id="material-layouts" href="https://material.angularjs.org/latest/layout/container">link</a></p>
 			{% include layout_1.html %}
 
 			Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
