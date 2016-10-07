@@ -32,8 +32,8 @@ title: SecoFire Style Guidelines
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">Design Principles<span class="sr-only">(current)</span></a></li>
-							<li><a href="#">Base Layout</a></li>
+							<li class="active"><a href="#">Design Concepts<span class="sr-only">(current)</span></a></li>
+							<li><a href="#">Layout</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Components <span class="caret"></span></a>
 								<ul class="dropdown-menu">
@@ -48,7 +48,6 @@ title: SecoFire Style Guidelines
 							</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#">Examples</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">References <span class="caret"></span></a>
 								<ul class="dropdown-menu">
