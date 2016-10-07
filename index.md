@@ -7,7 +7,8 @@ title: SecoFire Style Guidelines
 	<meta charset='utf-8'>
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta name="description" content="Secofire : ">
-
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="css/syntax.css">
 	<title>Seco Fire Style Guidelines</title>
@@ -134,6 +135,6 @@ Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, 
 	</div>
 
 	
-
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   </body>
 </html>
