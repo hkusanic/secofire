@@ -72,6 +72,8 @@ title: SecoFire Style Guidelines
 
 
 {% highlight html linenos %}
+<pre>
+	<code class="html">
 <!DOCTYPE html>
 	<html
 	lang="en"
@@ -99,6 +101,8 @@ title: SecoFire Style Guidelines
 		<form id="form1" runat="server"></form>
 	</body>
 	</html>
+	</code>
+</pre>
 {% endhighlight %}
 
 Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
