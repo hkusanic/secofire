@@ -71,8 +71,7 @@ title: SecoFire Style Guidelines
 </code>
 
 
-{% highlight html %}
-	{% raw %}
+{% highlight html linenos %}
 <!DOCTYPE html>
 <html lang="en"	ng-app="seco.fire.web" ng-strict-di>
 <head>
@@ -98,7 +97,6 @@ System.import('app/app');
 <form id="form1" runat="server"></form>
 </body>
 </html>
-	{% endraw %}
 {% endhighlight %}
 
 Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
