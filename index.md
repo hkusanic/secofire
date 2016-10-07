@@ -70,7 +70,7 @@ title: SecoFire Style Guidelines
 {% endhighlight %}
 </code>
 
-<code>
+
 {% highlight html %}
 	{% raw %}
 <!DOCTYPE html>
@@ -100,7 +100,7 @@ System.import('app/app');
 </html>
 	{% endraw %}
 {% endhighlight %}
-</code>
+
 Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Designer Templates</h3>
