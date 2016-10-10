@@ -8,6 +8,9 @@ by Jason Costello, @jsncostello
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
+#typography {
+  font-family: Arial,sans-serif;
+}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -266,7 +269,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 1030px;
   padding: 2px 10px;
   margin: 0 auto;
 }
