@@ -37,19 +37,19 @@ title: SecoFire Style Guidelines
 				<table class="colorPalette" width="100%">
 					<tr>
 						<td>
-							<div class="colorBlock itOrange"><p>Orange</p></div>
+							<div class="colorBlock itOrange"><p>Orange</p></br><p>#ff5622</p></div>
 						</td>
 						<td>
-							<div class="colorBlock itCyan"><p>Cyan</p></div>
+							<div class="colorBlock itCyan"><p>Cyan</p></br><p>#009688</p></div>
 						</td>
 						<td>
-							<div class="colorBlock itBlue"><p>Blue</p></div>
+							<div class="colorBlock itBlue"><p>Blue</p></br><p>#069</p></div>
 						</td>
 						<td>
-							<div class="colorBlock itPurple"><p>Purple</p></div>
+							<div class="colorBlock itPurple"><p>Purple</p></br><p>#848</p></div>
 						</td>
 						<td>
-							<div class="colorBlock itPink"><p>Pink</p></div>
+							<div class="colorBlock itPink"><p>Pink</p></br><p>#ffdede</p></div>
 						</td>
 					</tr>
 				</table>
