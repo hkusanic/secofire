@@ -59,13 +59,13 @@ MeyerWeb Reset
   color:black;
 }
 
-.typography .headerTitle p{
+p.typography.headerTitle {
   font-family: "Segoe UI Semilight","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
   font-weight: bold;
   font-size: 1.3 em;
 }
 
-.typography .controlLabels p{
+p.typography.controlLabels {
   font-family: "Segoe UI Semilight","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
   font-size: 1em;
   color: rgba(0,0,0,0.87);
