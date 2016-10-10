@@ -15,7 +15,10 @@ title: SecoFire Style Guidelines
 			</h3>
 			
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus.</p>
-			<img src="https://hkusanic.github.io/secofire/images/form_section_2.png" alt="Section element" height="269" width="1014">
+			<div class="picturePlaceHolder">
+				<img src="https://hkusanic.github.io/secofire/images/form_section_2.png" alt="Section element">
+			</div>
+			
 			<!--BEGINING of Section element-->
 	// 		<div>
 	// 			<md-content layout="column" ng-if="$ctrl.area &amp;&amp; $ctrl.area._isHidden <= 0" layout-padding="" ng-class="{'seco-invalid-area' : !$ctrl.area._isValid}" class="layout-padding ng-scope _md layout-column seco-invalid-area" style="">
