@@ -24,7 +24,7 @@ title: SecoFire Style Guidelines
 				<div>
 					<p class="typography headerTitle">1. Form section title example</p>
 				</div>
-				{% include layout_1.html %}
+				{% include layout_2.html %}
 				<div>
 					<p class="typography controlLabels">2. Labels for controls used in forms</p>
 				</div>
