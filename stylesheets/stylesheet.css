@@ -10,13 +10,17 @@ MeyerWeb Reset
 *******************************************************************************/
 
 /* Custom */
-#typography {
+.typography {
   font-family: Arial,sans-serif;
 }
 
 .picturePlaceHolder {
   text-align: center;
   vertical-align: middle;
+}
+
+.colorPalette{
+  border-width: 0px;
 }
 
 .colorBlock{
@@ -32,10 +36,27 @@ MeyerWeb Reset
 
 .itOrange{
   background-color: #ff5622;
+  color:black;
 }
 
 .itCyan{
   background-color: #009688;
+  color:black;
+}
+
+.itBlue{
+  background-color: #069;
+  color: white;
+}
+
+.itPurple{
+  background-color:#848;
+  color: black;
+}
+
+.itPink{
+  background-color: #ffdede;
+  color:black;
 }
 
 
