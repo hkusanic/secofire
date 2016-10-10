@@ -21,8 +21,11 @@ title: SecoFire Style Guidelines
 					Typography
 				</h3>
 				<p>Lorem ipsum dolor sit amet, <code>Arial, sans-serif</code> consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus. Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
-				<div class="typography">
-					<p>Seco Fire</p>
+				<div class="typography headerTitle">
+					<p>Form section title</p>
+				</div>
+				<div class="typography controlLabels">
+					<p>Labels for controls used in forms</p>
 				</div>
 				<h3>
 					<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true">
