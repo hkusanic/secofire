@@ -70,7 +70,7 @@ title: SecoFire Style Guidelines
 			</h3>
 
 			<p>Having trouble with this design guide? Feel free to contact us at <a href="hrvoje.kusanic@itsystems.ch">itsystems support</a> and we’ll help you sort it out.</p>
-		
+		</section>
 	</div>
 	{% include footer.html %}
 	{% include scripts.html %}
