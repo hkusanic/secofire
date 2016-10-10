@@ -34,30 +34,23 @@ title: SecoFire Style Guidelines
 			</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus molestie libero vel orci volutpat, ut maximus velit placerat. In at condimentum lectus. Maecenas fringilla varius ligula vel imperdiet. Etiam eget lobortis lectus. Morbi imperdiet turpis massa, in dapibus arcu sodales eu. Donec vitae ligula id libero placerat gravida et lobortis eros. Suspendisse dictum blandit libero quis sodales.<a href="https://guides.github.com/features/mastering-markdown/">Link example 1</a>, Aliquam lobortis tellus sit amet ante euismod, et semper nisi ultricies. Nullam convallis diam ante, non euismod justo aliquam eget. Vestibulum sit amet sagittis tellus. Vestibulum at aliquet risus. Donec eget dolor ut turpis rhoncus tincidunt dignissim ut elit. Nam est sapien, pharetra eget nunc ac, euismod congue magna.</p>
 			<div>
-				<table width="100%">
+				<table class="colorPalette" width="100%">
 					<tr>
 						<td>
-							<div class="colorBlock itOrange"><p>Orange<p></div>
+							<div class="colorBlock itOrange"><p>Orange</p></div>
 						</td>
 						<td>
-							<div class="colorBlock itCyan"><p>Cyan<p></div>
+							<div class="colorBlock itCyan"><p>Cyan</p></div>
 						</td>
 						<td>
-							<div class="colorBlock"></div>
+							<div class="colorBlock itBlue"><p>Blue</p></div>
 						</td>
 						<td>
-							<div class="colorBlock"></div>
+							<div class="colorBlock itPurple"><p>Purple</p></div>
 						</td>
 						<td>
-							<div class="colorBlock"></div>
+							<div class="colorBlock itPink"><p>Pink</p></div>
 						</td>
-					</tr>
-					<tr>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
 					</tr>
 				</table>
 			<div>
